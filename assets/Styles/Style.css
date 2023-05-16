@@ -1,0 +1,46 @@
+body{
+    text-align: center;
+}
+
+/*Estilos Para la clase container */
+.container{
+    margin: 25px;
+    border: 1px solid blue;
+    color: green;   
+}
+
+#container1{
+    color: red;
+}
+
+/*
+Posiciones
+Static: Es la posicion por defecto, todos los elementos HTML son estaticos, os elementos se posicionan en el flujo normal del documento (arriba a abajo, izquierda a derecha). Los valores top, bottom, right y left no tienen efeto en esta propiedad.
+
+*/
+.position{
+    position: static;
+    top: 30px;
+    left: 1000px;
+}
+
+span{
+    color: violet;
+    border: 1px solid red;
+}
+
+/*
+La propiedad de position de CSS se utiliza para controlar la ubicacion y el posicionamiento de un elemento HTML en una pagina. La propiedad position acepta diferentes valores, cada uno de los cuales determina como se posiciona un elemento en relacion con su elemento padre o en relacion con la ventana del navegador (el flujo normal de nuestra ventana es a partir de la esquina superior izquierda).
+
+Atributo position 
+
+Sirve para poner o acomodar los elementos dentro de nuestro HTML.
+
+La propiedad de position de CSS se utiliza para controlar la ubicacion y el posicionamiento de un elemento HTML en una pagina. La propiedad position acepta diferentes valores, cada uno de los cuales determina como se posiciona un elemento en relacion con su elemento padre o en relacion con la ventana del navegador (el flujo normal de nuestra ventana es a partir de la esquina superior izquierda).
+
+    - static
+    - relative
+    - absolute
+    - fixed
+    - sticky
+*/
