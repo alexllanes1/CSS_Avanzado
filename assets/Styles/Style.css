@@ -36,7 +36,6 @@ Fixed: Se modifica dependiendo la posicion de la pantalla y depende tambien de c
 Absolute: Para poder utilizar esta posicion debemos tomar en cuenta tambien el comtecto de nuestro padre, (container-padre) Esto quiere decir que todo lo que le pase al padre, se toma como contexto y eso afectara al hjo (margen, padding, etc) Generalmente se usa para barras de navegacion, menus, desplegables y animaciones (elementos que se quedan en un solo lugar respecto al elemento que los contiene)
 
 Sticky:Se utiliza para fijar o pegar un elemento en una posicion especifica de la ventana del navegador. Esto significa que el elemento se vava comportar como una posicion relativa HASTA que se desplaza a una posición donde se debe fijar
-
 */
 
 /*
