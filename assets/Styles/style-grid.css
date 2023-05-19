@@ -29,26 +29,32 @@
     background-color: orange;
     grid-area: barradenavegacion;
 }
+
 .imagenes{
     background-color: violet;
     grid-area: imagenes;
 }
+
 .parrafo1{
     background-color: red;
     grid-area: parrafo1;
 }
+
 .parrafo2{
     background-color: gold;
     grid-area: parrafo2;
 }
+
 .boton1{
     background-color: blue;
     grid-area: boton1;
 }
+
 .boton2{
     background-color: brown;
     grid-area: boton2;
 }
+
 .footer{
     background-color: rgb(63, 153, 206);
     grid-area: footer;
