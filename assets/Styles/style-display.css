@@ -41,7 +41,8 @@ li{
     display: inline-block;
 }
 
-/* La propiedad display se utiliza para coontrolar el tipo de caja que se usa para un elemento HTML, controla tambein el como se muestra la página
+/* 
+La propiedad display se utiliza para coontrolar el tipo de caja que se usa para un elemento HTML, controla tambein el como se muestra la página
 Esta propiedad es distinta de position porque se encarga de definir como se muestran u ocultan (NO SE ELIMINAN DEL CÓDIGO) los elementos del navegador.
 
 None: hace que el elemento se oculte completamente y no ocupe espacio en la página y este valor se utiliza comunmente para ocultar elementos con la interaccion del tamanio de ventanas
